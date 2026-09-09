@@ -1,0 +1,9 @@
+Agent: Hello, how may I help you today?
+
+Customer: I have been waiting for two weeks.
+
+Customer: This is very frustrating.
+
+Agent: I apologize for the inconvenience.
+
+Customer: Thank you for helping.
